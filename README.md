@@ -4,7 +4,7 @@ I am a freelance/contract Front-End Developer with over 12 years of expertise in
 
 I have worked for many different companies big and small, including Apple, Santander, Currencies Direct, PaymentSense and more.
 
-I love tinkering with new code projects, and sharing my learnings on my YouTube Channel: (PaulAndCode)[(https://www.youtube.com/@PaulAndCode]
+I love tinkering with new code projects, and sharing my learnings on my YouTube Channel: [PaulAndCode]((https://www.youtube.com/@PaulAndCode)
 
 ### 💻 Technical Skills
 
