@@ -15,17 +15,17 @@ I love tinkering with new code projects, and sharing my learnings on my YouTube 
 - **Platforms & Services**: Auth0, Heroku, Netlify, Apollo Server, Zendesk, Qualtrics
 - **Other**: Accessibility Standards (WCAG, WAI-ARIA), SEO
 
-<!--
-**PaulAndCode/PaulAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### My Interests
 
 - 🏔️ Hiking in nature
 - ⛺ Camping
 - 🪖 Army Reserves
 - 💻 Experimenting with new tech
+
+<!--
+**PaulAndCode/PaulAndCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
